@@ -1,0 +1,37 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="WWW.FEMI.COM" resolutions="1x" timestamp="1444885506829">
+  <folder name="css">
+    <file name="site_global.css" crc="114323701"/>
+    <file name="master_a-master.css" crc="262483533" ref="index"/>
+    <file name="index.css" crc="66979691" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="facebook.png" crc="317936629" ref="index"/>
+    <file name="twitter.png" crc="4102706121" ref="index"/>
+    <file name="rss.png" crc="3858264630" ref="index"/>
+    <file name="placeholder.jpg" crc="285091639" ref="index"/>
+    <file name="placeholder-u377-fr.jpg" crc="233504998" ref="index"/>
+    <file name="tweeter.png" crc="192439320" ref="index"/>
+    <file name="img02.jpg" crc="125852714" seo="true" ref="index"/>
+    <file name="icon.png" crc="397855693" seo="true" ref="index"/>
+    <file name="ar.png" crc="3873402047" seo="true" ref="index"/>
+    <file name="road.jpg" crc="3794447645" seo="true" ref="index"/>
+    <file name="cactus-crop-u373.jpg" crc="399881176" ref="index"/>
+    <file name="cactus-crop-u364.jpg" crc="399881176" ref="index"/>
+    <file name="heart.png" crc="117585526" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4092384677" seo="true" mt="1444885252168" redirect="true"/>
+</manifest>
